@@ -1,0 +1,14 @@
+@import "/src/css/Popup.scss";
+@import "/src/css/Game.scss";
+@import "/src/css/Square.scss";
+@import "/src/css/Board.scss";
+
+
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin: 20px;
+}
+
+ol, ul {
+  padding-left: 30px;
+}

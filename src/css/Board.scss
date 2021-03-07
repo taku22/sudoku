@@ -1,0 +1,17 @@
+.status {
+  margin-bottom: 10px;
+}
+
+.container {
+  margin: 20px auto;
+  max-width: 800px;
+  height: 540px;
+  display: grid;
+  grid-template-rows:184px 180px 180px;
+  grid-template-columns: 184px 184px 184px; /* Size of items defined inside container */
+  border:1px solid black;
+}
+
+.board-row {
+  border: 2px solid black;
+}
